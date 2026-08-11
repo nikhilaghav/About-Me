@@ -11,6 +11,7 @@
 * C
 * C++
 * Java
+* Python
 
 ## Database
 * SQL
