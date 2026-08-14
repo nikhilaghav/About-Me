@@ -2,7 +2,6 @@
 
 ## About Me
 
-* Done MCA(7.35 CGPA) from Dept. Of Computer Science,Pune university
 * Passionate about Programming & Backend Development
 * Learning Data Structures and Problem Solving
 
