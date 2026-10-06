@@ -1,6 +1,6 @@
 # Hi, I'm Nikhil Aghav👋
 
-# Software Engineer (Fresher) | Java Backend • System Programming • Machine Learning & GenAI
+# Software Engineer (Fresher) | Java Backend •  Machine Learning & GenAI
 
 📍 Pune, Maharashtra, India
 📧 nikhilaaghav@gmail.com | 💼 [LinkedIn](www.linkedin.com/in/nikhil-aghav-257167177)
