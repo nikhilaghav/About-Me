@@ -20,11 +20,17 @@ I completed industry-oriented training at **Marvellous Infosystems** in Python, 
 ## 🛠️ Tech Stack
 
 **Languages:** Java • C • C++ • Python 
+
 **Backend:** Spring Boot • REST APIs 
+
 **Databases:** MySQL • MongoDB 
+
 **Systems:** Linux • Multithreading • Socket Programming • OS Internals
+
 **AI / ML:** TensorFlow • Keras • Scikit-learn • OpenCV • Pandas • NumPy • Hugging Face
+
 **GenAI:** LLMs • RAG • FAISS • Ollama (Llama3) • Streamlit • Prompt Engineering
+
 **Tools:**  GitHub • IntelliJ • VS Code 
 
 ---
